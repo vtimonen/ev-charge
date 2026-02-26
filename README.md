@@ -4,4 +4,4 @@ EV-Charge on tietokantaprojekti, joka on suunniteltu sähköautojen latausverkos
 
 # 🚀 Live Demo
 
-(https://vtimonen.github.io/ev-charge/)
+https://vtimonen.github.io/ev-charge/
