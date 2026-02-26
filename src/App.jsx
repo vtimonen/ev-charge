@@ -9,7 +9,7 @@ import Normalisointi from './components/Normalisointi';
 
 function App() {
   const navLinks = [
-    { name: 'Vaatimuksmäärittely', href: '#vaatimukset' },
+    { name: 'Vaatimusmäärittely', href: '#vaatimukset' },
     { name: 'ER-kaavio', href: '#er-malli' },
     { name: 'Transformointi', href: '#skeema' },
     { name: 'SQL & Data', href: '#sql-data' },
