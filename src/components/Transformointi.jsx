@@ -86,7 +86,7 @@ const Transformation = () => {
                             flexDirection: 'column',
                             boxSizing: 'border-box',
                             width: '100%',
-                            overflowWrap: 'anywhere', // Pakottaa katkaisun mistä tahansa kohdasta
+                            overflowWrap: 'anywhere',
                             wordBreak: 'break-word'
                         }}>
                             <h4 style={{
@@ -96,7 +96,7 @@ const Transformation = () => {
                                 paddingBottom: '5px',
                                 fontSize: '1.1rem',
                                 overflowWrap: 'anywhere',
-                                hyphens: 'auto' // Mahdollistaa tavutuksen
+                                hyphens: 'auto'
                             }}>
                                 {table.name}
                             </h4>
